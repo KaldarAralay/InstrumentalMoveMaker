@@ -1,4 +1,4 @@
-# InstrumentalMoveMaker
+# Instrumental Movie Maker
 
 Video Creator from Image and Audio
 This Python script, movie.py, is designed to create a video from a single image and an audio file. The script uses the PIL (Pillow), pydub, and moviepy libraries to achieve this.
