@@ -9,7 +9,9 @@ The script is designed to work as follows:
 It searches the directory it is located in for subdirectories.
 For each subdirectory, it checks for an audio file and an image file.
 If both types of files are found in the same directory, the script creates a video from them. The image is displayed for the duration of the audio. The resulting video is saved in the same subdirectory.
+
 How to Use
+
 Place the movie.py file in a directory on your machine.
 Create a new subdirectory inside the directory containing movie.py. The name of the subdirectory can be anything you choose.
 Inside this new subdirectory, place the audio file (supported formats include .mp3, .wav, etc.) and the image file (supported formats include .jpg, .png, etc.) that you want to convert into a video.
